@@ -1,2 +1,2 @@
 # zyupload-.Net-demo
-zyupload C#版实例代码
+zyupload上次图片插件 C#版实例代码
